@@ -1,0 +1,13 @@
+.favourite-btn {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(95, 189, 117);
+    display: flex;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    top: 10px ;
+    border: none;
+}

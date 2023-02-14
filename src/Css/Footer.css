@@ -1,0 +1,5 @@
+li:link, a:visited, a:active {
+    text-decoration:none;
+    color: rgb(0, 2, 131);
+    font-size: 32px;
+}

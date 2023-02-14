@@ -1,0 +1,34 @@
+.Button {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    padding-top: 15px;
+    list-style: none;
+    width: 100%;
+    
+    
+}
+
+.decoration {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    letter-spacing: 1pt; 
+    word-spacing: 8pt;  
+    line-height: 22pt;   
+    text-indent: 28pt;
+    
+    
+    
+}
+
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: rgb(0, 2, 131);
+    font-size: 32px;
+}
+
